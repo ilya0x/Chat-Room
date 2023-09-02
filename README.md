@@ -1,2 +1,2 @@
-# Tetris Clone
-Tetris game made with Python &amp; Pygame
+# Chat Room
+Chat Room with custom profile image and nickname.
